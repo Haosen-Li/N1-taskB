@@ -1,0 +1,26 @@
+| 条件 | 学会 | 指针 | 中继 | 混合 |
+|---|---:|---:|---:|---:|
+| S1_N16_far | 16 | 16 | 0 | 0 |
+| S1_N192_far | 9 | 3 | 2 | 4 |
+| S1_N192_near | 11 | 11 | 0 | 0 |
+| S1_N64_far | 11 | 7 | 3 | 1 |
+| S1_N64_near | 14 | 14 | 0 | 0 |
+| S2_N192_far_filler | 6 | 4 | 1 | 1 |
+| S2_N192_far_mix16 | 5 | 3 | 0 | 2 |
+| X1_N192_far_filler_prev1 | 7 | 7 | 0 | 0 |
+| X1_N192_far_prev1 | 11 | 5 | 3 | 3 |
+| X1_N192_far_prev2 | 11 | 6 | 2 | 3 |
+| X1_N192_near_prev1 | 16 | 16 | 0 | 0 |
+| X1_N64_far_prev1 | 14 | 7 | 4 | 3 |
+| X2_N192_near_filler | 7 | 7 | 0 | 0 |
+| X4_N192_far_nope_prev1 | 14 | 12 | 0 | 2 |
+| X4_N192_near_nope_prev1 | 16 | 15 | 0 | 1 |
+| X5_far_prev1_rope_answeronly | 16 | 16 | 0 | 0 |
+| X6_N16_far_answeronly | 16 | 15 | 0 | 1 |
+| X6_N192_far_answeronly | 15 | 13 | 0 | 2 |
+| X6_N192_near_answeronly | 9 | 8 | 0 | 1 |
+| X7a_N192_near_prev1_answeronly | 13 | 13 | 0 | 0 |
+| X7b_rep_N192_far_answeronly | 14 | 12 | 0 | 2 |
+| X7b_rep_N192_far | 9 | 5 | 0 | 4 |
+| X8_N192_mid_answeronly | 8 | 7 | 0 | 1 |
+| X8_N192_mid | 12 | 12 | 0 | 0 |

@@ -1,0 +1,6 @@
+# Tested with Python 3.10 and torch 2.7.1+cu126.
+torch>=2.2
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pytest>=7

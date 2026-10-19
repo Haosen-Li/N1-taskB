@@ -1,0 +1,13 @@
+# Local training outputs; the recorded JSON metrics under synth/runs are versioned.
+artifacts/
+*.pt
+*.pth
+*.safetensors
+*.log
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+pretrained/cache/
+pretrained/data/
+.DS_Store

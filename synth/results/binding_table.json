@@ -1,0 +1,1570 @@
+{
+ "S1_N16_far": [
+  {
+   "member": 0,
+   "status": "pointer",
+   "prev_attn": 0.8313669562339783,
+   "key_probe": 1.0
+  },
+  {
+   "member": 1,
+   "status": "pointer",
+   "prev_attn": 0.9642696976661682,
+   "key_probe": 0.9970703125
+  },
+  {
+   "member": 2,
+   "status": "pointer",
+   "prev_attn": 0.9839167594909668,
+   "key_probe": 0.99951171875
+  },
+  {
+   "member": 3,
+   "status": "pointer",
+   "prev_attn": 0.9798794388771057,
+   "key_probe": 1.0
+  },
+  {
+   "member": 4,
+   "status": "pointer",
+   "prev_attn": 0.9542106986045837,
+   "key_probe": 1.0
+  },
+  {
+   "member": 5,
+   "status": "pointer",
+   "prev_attn": 0.9916753172874451,
+   "key_probe": 1.0
+  },
+  {
+   "member": 6,
+   "status": "pointer",
+   "prev_attn": 0.6996930241584778,
+   "key_probe": 1.0
+  },
+  {
+   "member": 7,
+   "status": "pointer",
+   "prev_attn": 0.9758533835411072,
+   "key_probe": 1.0
+  },
+  {
+   "member": 8,
+   "status": "pointer",
+   "prev_attn": 0.9805415868759155,
+   "key_probe": 1.0
+  },
+  {
+   "member": 9,
+   "status": "pointer",
+   "prev_attn": 0.9789661169052124,
+   "key_probe": 1.0
+  },
+  {
+   "member": 10,
+   "status": "pointer",
+   "prev_attn": 0.9637371897697449,
+   "key_probe": 1.0
+  },
+  {
+   "member": 11,
+   "status": "pointer",
+   "prev_attn": 0.9846042990684509,
+   "key_probe": 0.99951171875
+  },
+  {
+   "member": 12,
+   "status": "pointer",
+   "prev_attn": 0.9429118037223816,
+   "key_probe": 1.0
+  },
+  {
+   "member": 13,
+   "status": "pointer",
+   "prev_attn": 0.7430392503738403,
+   "key_probe": 0.8720703125
+  },
+  {
+   "member": 14,
+   "status": "pointer",
+   "prev_attn": 0.960721492767334,
+   "key_probe": 1.0
+  },
+  {
+   "member": 15,
+   "status": "pointer",
+   "prev_attn": 0.9725409150123596,
+   "key_probe": 1.0
+  }
+ ],
+ "S1_N64_far": [
+  {
+   "member": 0,
+   "status": "pointer",
+   "prev_attn": 0.055244095623493195,
+   "key_probe": 0.17822265625
+  },
+  {
+   "member": 1,
+   "status": "mixed",
+   "prev_attn": 0.9897104501724243,
+   "key_probe": 1.0
+  },
+  {
+   "member": 2,
+   "status": "pointer",
+   "prev_attn": 0.6514105200767517,
+   "key_probe": 0.66650390625
+  },
+  {
+   "member": 3,
+   "status": "relay",
+   "prev_attn": 0.16957461833953857,
+   "key_probe": 0.41259765625
+  },
+  {
+   "member": 4,
+   "status": "stuck",
+   "prev_attn": 0.020543985068798065,
+   "key_probe": 0.138671875
+  },
+  {
+   "member": 5,
+   "status": "pointer",
+   "prev_attn": 0.8300172090530396,
+   "key_probe": 1.0
+  },
+  {
+   "member": 6,
+   "status": "relay",
+   "prev_attn": 0.22374221682548523,
+   "key_probe": 0.50439453125
+  },
+  {
+   "member": 7,
+   "status": "stuck",
+   "prev_attn": 0.21637693047523499,
+   "key_probe": 0.30517578125
+  },
+  {
+   "member": 8,
+   "status": "stuck",
+   "prev_attn": 0.2251172959804535,
+   "key_probe": 0.4072265625
+  },
+  {
+   "member": 9,
+   "status": "stuck",
+   "prev_attn": 0.007193353958427906,
+   "key_probe": 0.14599609375
+  },
+  {
+   "member": 10,
+   "status": "relay",
+   "prev_attn": 0.6101709008216858,
+   "key_probe": 0.71826171875
+  },
+  {
+   "member": 11,
+   "status": "pointer",
+   "prev_attn": 0.989898681640625,
+   "key_probe": 1.0
+  },
+  {
+   "member": 12,
+   "status": "pointer",
+   "prev_attn": 0.8620219826698303,
+   "key_probe": 1.0
+  },
+  {
+   "member": 13,
+   "status": "pointer",
+   "prev_attn": 0.9843415021896362,
+   "key_probe": 1.0
+  },
+  {
+   "member": 14,
+   "status": "pointer",
+   "prev_attn": 0.9929373264312744,
+   "key_probe": 1.0
+  },
+  {
+   "member": 15,
+   "status": "stuck",
+   "prev_attn": 0.2834028899669647,
+   "key_probe": 0.44921875
+  }
+ ],
+ "S1_N192_near": [
+  {
+   "member": 0,
+   "status": "pointer",
+   "prev_attn": 0.9785904884338379,
+   "key_probe": 1.0
+  },
+  {
+   "member": 1,
+   "status": "pointer",
+   "prev_attn": 0.0013712666695937514,
+   "key_probe": 0.12646484375
+  },
+  {
+   "member": 2,
+   "status": "pointer",
+   "prev_attn": 0.8838872909545898,
+   "key_probe": 1.0
+  },
+  {
+   "member": 3,
+   "status": "stuck",
+   "prev_attn": 0.3263029456138611,
+   "key_probe": 0.4267578125
+  },
+  {
+   "member": 4,
+   "status": "stuck",
+   "prev_attn": 0.015549812465906143,
+   "key_probe": 0.12451171875
+  },
+  {
+   "member": 5,
+   "status": "stuck",
+   "prev_attn": 0.03560655564069748,
+   "key_probe": 0.32080078125
+  },
+  {
+   "member": 6,
+   "status": "pointer",
+   "prev_attn": 0.9860349893569946,
+   "key_probe": 1.0
+  },
+  {
+   "member": 7,
+   "status": "pointer",
+   "prev_attn": 0.982349157333374,
+   "key_probe": 1.0
+  },
+  {
+   "member": 8,
+   "status": "pointer",
+   "prev_attn": 0.9321504831314087,
+   "key_probe": 0.99658203125
+  },
+  {
+   "member": 9,
+   "status": "pointer",
+   "prev_attn": 0.9744965434074402,
+   "key_probe": 1.0
+  },
+  {
+   "member": 10,
+   "status": "pointer",
+   "prev_attn": 0.03450790047645569,
+   "key_probe": 0.458984375
+  },
+  {
+   "member": 11,
+   "status": "pointer",
+   "prev_attn": 0.9873780608177185,
+   "key_probe": 0.998046875
+  },
+  {
+   "member": 12,
+   "status": "stuck",
+   "prev_attn": 0.15963292121887207,
+   "key_probe": 0.34716796875
+  },
+  {
+   "member": 13,
+   "status": "stuck",
+   "prev_attn": 0.311641126871109,
+   "key_probe": 0.3095703125
+  },
+  {
+   "member": 14,
+   "status": "pointer",
+   "prev_attn": 0.9885927438735962,
+   "key_probe": 1.0
+  },
+  {
+   "member": 15,
+   "status": "pointer",
+   "prev_attn": 0.8228864073753357,
+   "key_probe": 1.0
+  }
+ ],
+ "S1_N192_far": [
+  {
+   "member": 0,
+   "status": "mixed",
+   "prev_attn": 0.2132323682308197,
+   "key_probe": 0.44091796875
+  },
+  {
+   "member": 1,
+   "status": "pointer",
+   "prev_attn": 0.20478785037994385,
+   "key_probe": 0.34033203125
+  },
+  {
+   "member": 2,
+   "status": "stuck",
+   "prev_attn": 0.033812910318374634,
+   "key_probe": 0.2529296875
+  },
+  {
+   "member": 3,
+   "status": "stuck",
+   "prev_attn": 0.17498591542243958,
+   "key_probe": 0.43359375
+  },
+  {
+   "member": 4,
+   "status": "pointer",
+   "prev_attn": 0.9915855526924133,
+   "key_probe": 1.0
+  },
+  {
+   "member": 5,
+   "status": "mixed",
+   "prev_attn": 0.8446165323257446,
+   "key_probe": 1.0
+  },
+  {
+   "member": 6,
+   "status": "pointer",
+   "prev_attn": 0.9746270179748535,
+   "key_probe": 1.0
+  },
+  {
+   "member": 7,
+   "status": "stuck",
+   "prev_attn": 0.5260807275772095,
+   "key_probe": 0.78271484375
+  },
+  {
+   "member": 8,
+   "status": "relay",
+   "prev_attn": 0.4114530086517334,
+   "key_probe": 0.572265625
+  },
+  {
+   "member": 9,
+   "status": "mixed",
+   "prev_attn": 0.02131420373916626,
+   "key_probe": 0.37109375
+  },
+  {
+   "member": 10,
+   "status": "stuck",
+   "prev_attn": 0.016750488430261612,
+   "key_probe": 0.18701171875
+  },
+  {
+   "member": 11,
+   "status": "stuck",
+   "prev_attn": 0.13954731822013855,
+   "key_probe": 0.23681640625
+  },
+  {
+   "member": 12,
+   "status": "relay",
+   "prev_attn": 0.0039584580808877945,
+   "key_probe": 0.1416015625
+  },
+  {
+   "member": 13,
+   "status": "stuck",
+   "prev_attn": 0.4992576837539673,
+   "key_probe": 0.53857421875
+  },
+  {
+   "member": 14,
+   "status": "mixed",
+   "prev_attn": 0.8856629133224487,
+   "key_probe": 0.9267578125
+  },
+  {
+   "member": 15,
+   "status": "stuck",
+   "prev_attn": 0.028475798666477203,
+   "key_probe": 0.34765625
+  }
+ ],
+ "S2_N192_far_filler": [
+  {
+   "member": 0,
+   "status": "stuck",
+   "prev_attn": 0.07412868738174438,
+   "key_probe": 0.1240234375
+  },
+  {
+   "member": 1,
+   "status": "stuck",
+   "prev_attn": 0.03856712207198143,
+   "key_probe": 0.13525390625
+  },
+  {
+   "member": 2,
+   "status": "pointer",
+   "prev_attn": 0.986295223236084,
+   "key_probe": 1.0
+  },
+  {
+   "member": 3,
+   "status": "stuck",
+   "prev_attn": 0.03982966020703316,
+   "key_probe": 0.16796875
+  },
+  {
+   "member": 4,
+   "status": "stuck",
+   "prev_attn": 0.16179975867271423,
+   "key_probe": 0.32275390625
+  },
+  {
+   "member": 5,
+   "status": "pointer",
+   "prev_attn": 0.9985952377319336,
+   "key_probe": 1.0
+  },
+  {
+   "member": 6,
+   "status": "pointer",
+   "prev_attn": 0.9847460985183716,
+   "key_probe": 0.99169921875
+  },
+  {
+   "member": 7,
+   "status": "stuck",
+   "prev_attn": 0.04990726709365845,
+   "key_probe": 0.14892578125
+  },
+  {
+   "member": 8,
+   "status": "mixed",
+   "prev_attn": 0.9988404512405396,
+   "key_probe": 0.98828125
+  },
+  {
+   "member": 9,
+   "status": "pointer",
+   "prev_attn": 0.9940812587738037,
+   "key_probe": 0.99755859375
+  },
+  {
+   "member": 10,
+   "status": "stuck",
+   "prev_attn": 0.05320197343826294,
+   "key_probe": 0.140625
+  },
+  {
+   "member": 11,
+   "status": "stuck",
+   "prev_attn": 0.24636675417423248,
+   "key_probe": 0.2421875
+  },
+  {
+   "member": 12,
+   "status": "stuck",
+   "prev_attn": 0.05900908261537552,
+   "key_probe": 0.146484375
+  },
+  {
+   "member": 13,
+   "status": "stuck",
+   "prev_attn": 0.09100963175296783,
+   "key_probe": 0.1875
+  },
+  {
+   "member": 14,
+   "status": "relay",
+   "prev_attn": 0.16331078112125397,
+   "key_probe": 0.35595703125
+  },
+  {
+   "member": 15,
+   "status": "stuck",
+   "prev_attn": 0.13607561588287354,
+   "key_probe": 0.22607421875
+  }
+ ],
+ "S2_N192_far_mix16": [
+  {
+   "member": 0,
+   "status": "pointer",
+   "prev_attn": 0.806527853012085,
+   "key_probe": 0.9921875
+  },
+  {
+   "member": 1,
+   "status": "pointer",
+   "prev_attn": 0.9422330856323242,
+   "key_probe": 0.99658203125
+  },
+  {
+   "member": 2,
+   "status": "stuck",
+   "prev_attn": 0.6392210125923157,
+   "key_probe": 0.369140625
+  },
+  {
+   "member": 3,
+   "status": "stuck",
+   "prev_attn": 0.04889912158250809,
+   "key_probe": 0.16650390625
+  },
+  {
+   "member": 4,
+   "status": "stuck",
+   "prev_attn": 0.12473446130752563,
+   "key_probe": 0.14697265625
+  },
+  {
+   "member": 5,
+   "status": "mixed",
+   "prev_attn": 0.049265746027231216,
+   "key_probe": 0.1875
+  },
+  {
+   "member": 6,
+   "status": "stuck",
+   "prev_attn": 0.36754071712493896,
+   "key_probe": 0.205078125
+  },
+  {
+   "member": 7,
+   "status": "stuck",
+   "prev_attn": 0.13463659584522247,
+   "key_probe": 0.19873046875
+  },
+  {
+   "member": 8,
+   "status": "stuck",
+   "prev_attn": 0.07539612054824829,
+   "key_probe": 0.1630859375
+  },
+  {
+   "member": 9,
+   "status": "stuck",
+   "prev_attn": 0.07536806166172028,
+   "key_probe": 0.1435546875
+  },
+  {
+   "member": 10,
+   "status": "stuck",
+   "prev_attn": 0.010621065273880959,
+   "key_probe": 0.1328125
+  },
+  {
+   "member": 11,
+   "status": "stuck",
+   "prev_attn": 0.008398247882723808,
+   "key_probe": 0.1240234375
+  },
+  {
+   "member": 12,
+   "status": "pointer",
+   "prev_attn": 0.930167019367218,
+   "key_probe": 0.9912109375
+  },
+  {
+   "member": 13,
+   "status": "stuck",
+   "prev_attn": 0.08869573473930359,
+   "key_probe": 0.13134765625
+  },
+  {
+   "member": 14,
+   "status": "mixed",
+   "prev_attn": 0.023277122527360916,
+   "key_probe": 0.1455078125
+  },
+  {
+   "member": 15,
+   "status": "stuck",
+   "prev_attn": 0.16312985122203827,
+   "key_probe": 0.134765625
+  }
+ ],
+ "X2_N192_near_filler": [
+  {
+   "member": 0,
+   "status": "stuck",
+   "prev_attn": 0.006538094021379948,
+   "key_probe": 0.13720703125
+  },
+  {
+   "member": 1,
+   "status": "stuck",
+   "prev_attn": 0.35181257128715515,
+   "key_probe": 0.21826171875
+  },
+  {
+   "member": 2,
+   "status": "pointer",
+   "prev_attn": 0.9994808435440063,
+   "key_probe": 1.0
+  },
+  {
+   "member": 3,
+   "status": "stuck",
+   "prev_attn": 0.008991802111268044,
+   "key_probe": 0.130859375
+  },
+  {
+   "member": 4,
+   "status": "stuck",
+   "prev_attn": 0.008634334430098534,
+   "key_probe": 0.13427734375
+  },
+  {
+   "member": 5,
+   "status": "pointer",
+   "prev_attn": 0.9994977712631226,
+   "key_probe": 1.0
+  },
+  {
+   "member": 6,
+   "status": "stuck",
+   "prev_attn": 0.21908101439476013,
+   "key_probe": 0.23486328125
+  },
+  {
+   "member": 7,
+   "status": "stuck",
+   "prev_attn": 0.057859256863594055,
+   "key_probe": 0.12939453125
+  },
+  {
+   "member": 8,
+   "status": "pointer",
+   "prev_attn": 0.9981600046157837,
+   "key_probe": 0.99951171875
+  },
+  {
+   "member": 9,
+   "status": "pointer",
+   "prev_attn": 0.9994330406188965,
+   "key_probe": 0.9853515625
+  },
+  {
+   "member": 10,
+   "status": "pointer",
+   "prev_attn": 0.9971700310707092,
+   "key_probe": 1.0
+  },
+  {
+   "member": 11,
+   "status": "stuck",
+   "prev_attn": 0.058943383395671844,
+   "key_probe": 0.1640625
+  },
+  {
+   "member": 12,
+   "status": "stuck",
+   "prev_attn": 0.010723715648055077,
+   "key_probe": 0.12646484375
+  },
+  {
+   "member": 13,
+   "status": "stuck",
+   "prev_attn": 0.41027525067329407,
+   "key_probe": 0.32568359375
+  },
+  {
+   "member": 14,
+   "status": "pointer",
+   "prev_attn": 0.8824419975280762,
+   "key_probe": 0.99462890625
+  },
+  {
+   "member": 15,
+   "status": "pointer",
+   "prev_attn": 0.8805364966392517,
+   "key_probe": 1.0
+  }
+ ],
+ "X1_N192_far_prev1": [
+  {
+   "member": 0,
+   "status": "stuck",
+   "prev_attn": 0.2632029056549072,
+   "key_probe": 0.67041015625
+  },
+  {
+   "member": 1,
+   "status": "relay",
+   "prev_attn": 0.46977269649505615,
+   "key_probe": 0.7548828125
+  },
+  {
+   "member": 2,
+   "status": "stuck",
+   "prev_attn": 0.9990127086639404,
+   "key_probe": 0.9921875
+  },
+  {
+   "member": 3,
+   "status": "relay",
+   "prev_attn": 0.23979489505290985,
+   "key_probe": 0.92333984375
+  },
+  {
+   "member": 4,
+   "status": "pointer",
+   "prev_attn": 0.02462291158735752,
+   "key_probe": 1.0
+  },
+  {
+   "member": 5,
+   "status": "mixed",
+   "prev_attn": 0.005944627337157726,
+   "key_probe": 0.919921875
+  },
+  {
+   "member": 6,
+   "status": "stuck",
+   "prev_attn": 0.06282896548509598,
+   "key_probe": 0.951171875
+  },
+  {
+   "member": 7,
+   "status": "relay",
+   "prev_attn": 0.0003554087888915092,
+   "key_probe": 1.0
+  },
+  {
+   "member": 8,
+   "status": "mixed",
+   "prev_attn": 0.014235435053706169,
+   "key_probe": 0.39453125
+  },
+  {
+   "member": 9,
+   "status": "pointer",
+   "prev_attn": 0.20826968550682068,
+   "key_probe": 0.9951171875
+  },
+  {
+   "member": 10,
+   "status": "stuck",
+   "prev_attn": 0.02885495126247406,
+   "key_probe": 0.30322265625
+  },
+  {
+   "member": 11,
+   "status": "pointer",
+   "prev_attn": 0.2204727679491043,
+   "key_probe": 0.99169921875
+  },
+  {
+   "member": 12,
+   "status": "mixed",
+   "prev_attn": 0.0006864505121484399,
+   "key_probe": 0.9716796875
+  },
+  {
+   "member": 13,
+   "status": "pointer",
+   "prev_attn": 0.04431885480880737,
+   "key_probe": 0.99560546875
+  },
+  {
+   "member": 14,
+   "status": "pointer",
+   "prev_attn": 0.07804049551486969,
+   "key_probe": 0.98974609375
+  },
+  {
+   "member": 15,
+   "status": "stuck",
+   "prev_attn": 0.10126341134309769,
+   "key_probe": 1.0
+  }
+ ],
+ "X1_N192_near_prev1": [
+  {
+   "member": 0,
+   "status": "pointer",
+   "prev_attn": 0.011279191821813583,
+   "key_probe": 0.99853515625
+  },
+  {
+   "member": 1,
+   "status": "pointer",
+   "prev_attn": 0.023111440241336823,
+   "key_probe": 0.99755859375
+  },
+  {
+   "member": 2,
+   "status": "pointer",
+   "prev_attn": 0.0006647658301517367,
+   "key_probe": 0.99951171875
+  },
+  {
+   "member": 3,
+   "status": "pointer",
+   "prev_attn": 0.012810233049094677,
+   "key_probe": 0.9990234375
+  },
+  {
+   "member": 4,
+   "status": "pointer",
+   "prev_attn": 0.022426221519708633,
+   "key_probe": 1.0
+  },
+  {
+   "member": 5,
+   "status": "pointer",
+   "prev_attn": 0.0010156866628676653,
+   "key_probe": 0.96630859375
+  },
+  {
+   "member": 6,
+   "status": "pointer",
+   "prev_attn": 0.0022499049082398415,
+   "key_probe": 0.9658203125
+  },
+  {
+   "member": 7,
+   "status": "pointer",
+   "prev_attn": 0.0377565398812294,
+   "key_probe": 0.9765625
+  },
+  {
+   "member": 8,
+   "status": "pointer",
+   "prev_attn": 0.011983366683125496,
+   "key_probe": 0.998046875
+  },
+  {
+   "member": 9,
+   "status": "pointer",
+   "prev_attn": 0.26860499382019043,
+   "key_probe": 0.96923828125
+  },
+  {
+   "member": 10,
+   "status": "pointer",
+   "prev_attn": 0.012592791579663754,
+   "key_probe": 1.0
+  },
+  {
+   "member": 11,
+   "status": "pointer",
+   "prev_attn": 0.011126830242574215,
+   "key_probe": 0.98486328125
+  },
+  {
+   "member": 12,
+   "status": "pointer",
+   "prev_attn": 0.03314594179391861,
+   "key_probe": 1.0
+  },
+  {
+   "member": 13,
+   "status": "pointer",
+   "prev_attn": 0.0626399889588356,
+   "key_probe": 0.994140625
+  },
+  {
+   "member": 14,
+   "status": "pointer",
+   "prev_attn": 0.03621856868267059,
+   "key_probe": 0.99169921875
+  },
+  {
+   "member": 15,
+   "status": "pointer",
+   "prev_attn": 0.07633364945650101,
+   "key_probe": 0.99658203125
+  }
+ ],
+ "X1_N192_far_filler_prev1": [
+  {
+   "member": 0,
+   "status": "stuck",
+   "prev_attn": 0.05505390837788582,
+   "key_probe": 0.4853515625
+  },
+  {
+   "member": 1,
+   "status": "pointer",
+   "prev_attn": 0.1641954481601715,
+   "key_probe": 0.99365234375
+  },
+  {
+   "member": 2,
+   "status": "pointer",
+   "prev_attn": 0.0730104148387909,
+   "key_probe": 0.98828125
+  },
+  {
+   "member": 3,
+   "status": "stuck",
+   "prev_attn": 0.13837389647960663,
+   "key_probe": 0.5712890625
+  },
+  {
+   "member": 4,
+   "status": "stuck",
+   "prev_attn": 0.2619495391845703,
+   "key_probe": 0.638671875
+  },
+  {
+   "member": 5,
+   "status": "pointer",
+   "prev_attn": 0.08776520192623138,
+   "key_probe": 0.99951171875
+  },
+  {
+   "member": 6,
+   "status": "stuck",
+   "prev_attn": 0.08172786980867386,
+   "key_probe": 0.4150390625
+  },
+  {
+   "member": 7,
+   "status": "stuck",
+   "prev_attn": 0.06456306576728821,
+   "key_probe": 0.4833984375
+  },
+  {
+   "member": 8,
+   "status": "pointer",
+   "prev_attn": 0.07237500697374344,
+   "key_probe": 0.98291015625
+  },
+  {
+   "member": 9,
+   "status": "stuck",
+   "prev_attn": 0.03483302891254425,
+   "key_probe": 0.51904296875
+  },
+  {
+   "member": 10,
+   "status": "pointer",
+   "prev_attn": 0.1480201631784439,
+   "key_probe": 0.95703125
+  },
+  {
+   "member": 11,
+   "status": "pointer",
+   "prev_attn": 0.10620283335447311,
+   "key_probe": 0.93212890625
+  },
+  {
+   "member": 12,
+   "status": "stuck",
+   "prev_attn": 0.3133251368999481,
+   "key_probe": 0.3828125
+  },
+  {
+   "member": 13,
+   "status": "pointer",
+   "prev_attn": 0.0593860000371933,
+   "key_probe": 0.98095703125
+  },
+  {
+   "member": 14,
+   "status": "stuck",
+   "prev_attn": 0.164907768368721,
+   "key_probe": 0.529296875
+  },
+  {
+   "member": 15,
+   "status": "stuck",
+   "prev_attn": 0.06265036761760712,
+   "key_probe": 0.44970703125
+  }
+ ],
+ "X4_N192_far_nope_prev1": [
+  {
+   "member": 0,
+   "status": "pointer",
+   "prev_attn": 0.2563895881175995,
+   "key_probe": 0.99462890625
+  },
+  {
+   "member": 1,
+   "status": "pointer",
+   "prev_attn": 0.1980350911617279,
+   "key_probe": 0.99609375
+  },
+  {
+   "member": 2,
+   "status": "pointer",
+   "prev_attn": 0.2428644746541977,
+   "key_probe": 0.9990234375
+  },
+  {
+   "member": 3,
+   "status": "mixed",
+   "prev_attn": 0.13885627686977386,
+   "key_probe": 0.990234375
+  },
+  {
+   "member": 4,
+   "status": "pointer",
+   "prev_attn": 0.20630256831645966,
+   "key_probe": 1.0
+  },
+  {
+   "member": 5,
+   "status": "pointer",
+   "prev_attn": 0.0840669721364975,
+   "key_probe": 0.90771484375
+  },
+  {
+   "member": 6,
+   "status": "stuck",
+   "prev_attn": 0.3714304268360138,
+   "key_probe": 0.72802734375
+  },
+  {
+   "member": 7,
+   "status": "pointer",
+   "prev_attn": 0.2261134535074234,
+   "key_probe": 0.99755859375
+  },
+  {
+   "member": 8,
+   "status": "mixed",
+   "prev_attn": 0.15937437117099762,
+   "key_probe": 0.99951171875
+  },
+  {
+   "member": 9,
+   "status": "pointer",
+   "prev_attn": 0.0627930611371994,
+   "key_probe": 1.0
+  },
+  {
+   "member": 10,
+   "status": "pointer",
+   "prev_attn": 0.24806076288223267,
+   "key_probe": 0.99853515625
+  },
+  {
+   "member": 11,
+   "status": "pointer",
+   "prev_attn": 0.20628857612609863,
+   "key_probe": 0.990234375
+  },
+  {
+   "member": 12,
+   "status": "pointer",
+   "prev_attn": 0.13693739473819733,
+   "key_probe": 0.98291015625
+  },
+  {
+   "member": 13,
+   "status": "stuck",
+   "prev_attn": 0.15915226936340332,
+   "key_probe": 0.603515625
+  },
+  {
+   "member": 14,
+   "status": "pointer",
+   "prev_attn": 0.2711150646209717,
+   "key_probe": 0.994140625
+  },
+  {
+   "member": 15,
+   "status": "pointer",
+   "prev_attn": 0.2964678406715393,
+   "key_probe": 0.99853515625
+  }
+ ],
+ "X6_N192_near_answeronly": [
+  {
+   "member": 0,
+   "status": "pointer",
+   "prev_attn": 0.08730442076921463,
+   "key_probe": 0.32080078125
+  },
+  {
+   "member": 1,
+   "status": "mixed",
+   "prev_attn": 0.04818657413125038,
+   "key_probe": 0.22412109375
+  },
+  {
+   "member": 2,
+   "status": "pointer",
+   "prev_attn": 0.813350260257721,
+   "key_probe": 0.99853515625
+  },
+  {
+   "member": 3,
+   "status": "stuck",
+   "prev_attn": 0.003068584483116865,
+   "key_probe": 0.12841796875
+  },
+  {
+   "member": 4,
+   "status": "stuck",
+   "prev_attn": 0.046466488391160965,
+   "key_probe": 0.3271484375
+  },
+  {
+   "member": 5,
+   "status": "stuck",
+   "prev_attn": 0.03322957828640938,
+   "key_probe": 0.115234375
+  },
+  {
+   "member": 6,
+   "status": "stuck",
+   "prev_attn": 0.026693429797887802,
+   "key_probe": 0.13525390625
+  },
+  {
+   "member": 7,
+   "status": "stuck",
+   "prev_attn": 0.0014307373203337193,
+   "key_probe": 0.13232421875
+  },
+  {
+   "member": 8,
+   "status": "pointer",
+   "prev_attn": 0.8427579402923584,
+   "key_probe": 0.9951171875
+  },
+  {
+   "member": 9,
+   "status": "pointer",
+   "prev_attn": 0.6420793533325195,
+   "key_probe": 0.99853515625
+  },
+  {
+   "member": 10,
+   "status": "stuck",
+   "prev_attn": 0.021129734814167023,
+   "key_probe": 0.11962890625
+  },
+  {
+   "member": 11,
+   "status": "pointer",
+   "prev_attn": 0.4898073673248291,
+   "key_probe": 1.0
+  },
+  {
+   "member": 12,
+   "status": "pointer",
+   "prev_attn": 0.8927977085113525,
+   "key_probe": 0.9833984375
+  },
+  {
+   "member": 13,
+   "status": "pointer",
+   "prev_attn": 0.6044875383377075,
+   "key_probe": 0.98193359375
+  },
+  {
+   "member": 14,
+   "status": "pointer",
+   "prev_attn": 0.839174211025238,
+   "key_probe": 1.0
+  },
+  {
+   "member": 15,
+   "status": "stuck",
+   "prev_attn": 0.006100916303694248,
+   "key_probe": 0.1328125
+  }
+ ],
+ "X6_N192_far_answeronly": [
+  {
+   "member": 0,
+   "status": "pointer",
+   "prev_attn": 0.9256405830383301,
+   "key_probe": 0.9970703125
+  },
+  {
+   "member": 1,
+   "status": "pointer",
+   "prev_attn": 0.9288058876991272,
+   "key_probe": 0.98095703125
+  },
+  {
+   "member": 2,
+   "status": "pointer",
+   "prev_attn": 0.8498151302337646,
+   "key_probe": 0.98095703125
+  },
+  {
+   "member": 3,
+   "status": "mixed",
+   "prev_attn": 0.1090366542339325,
+   "key_probe": 0.306640625
+  },
+  {
+   "member": 4,
+   "status": "pointer",
+   "prev_attn": 0.9728788733482361,
+   "key_probe": 0.9833984375
+  },
+  {
+   "member": 5,
+   "status": "stuck",
+   "prev_attn": 0.021911639720201492,
+   "key_probe": 0.14111328125
+  },
+  {
+   "member": 6,
+   "status": "mixed",
+   "prev_attn": 0.9223070740699768,
+   "key_probe": 1.0
+  },
+  {
+   "member": 7,
+   "status": "pointer",
+   "prev_attn": 0.14650142192840576,
+   "key_probe": 0.2490234375
+  },
+  {
+   "member": 8,
+   "status": "pointer",
+   "prev_attn": 0.7230668067932129,
+   "key_probe": 1.0
+  },
+  {
+   "member": 9,
+   "status": "pointer",
+   "prev_attn": 0.8310009837150574,
+   "key_probe": 0.90625
+  },
+  {
+   "member": 10,
+   "status": "pointer",
+   "prev_attn": 0.791808009147644,
+   "key_probe": 0.93994140625
+  },
+  {
+   "member": 11,
+   "status": "pointer",
+   "prev_attn": 0.7879674434661865,
+   "key_probe": 0.9912109375
+  },
+  {
+   "member": 12,
+   "status": "pointer",
+   "prev_attn": 0.8561840057373047,
+   "key_probe": 0.99853515625
+  },
+  {
+   "member": 13,
+   "status": "pointer",
+   "prev_attn": 0.9298015236854553,
+   "key_probe": 0.99951171875
+  },
+  {
+   "member": 14,
+   "status": "pointer",
+   "prev_attn": 0.9607447385787964,
+   "key_probe": 1.0
+  },
+  {
+   "member": 15,
+   "status": "pointer",
+   "prev_attn": 0.8852006196975708,
+   "key_probe": 0.98779296875
+  }
+ ],
+ "X7a_N192_near_prev1_answeronly": [
+  {
+   "member": 0,
+   "status": "stuck",
+   "prev_attn": 0.010291464626789093,
+   "key_probe": 0.5546875
+  },
+  {
+   "member": 1,
+   "status": "pointer",
+   "prev_attn": 0.011403640732169151,
+   "key_probe": 0.98095703125
+  },
+  {
+   "member": 2,
+   "status": "pointer",
+   "prev_attn": 0.006416437681764364,
+   "key_probe": 1.0
+  },
+  {
+   "member": 3,
+   "status": "pointer",
+   "prev_attn": 0.05261404067277908,
+   "key_probe": 0.849609375
+  },
+  {
+   "member": 4,
+   "status": "stuck",
+   "prev_attn": 0.011015188880264759,
+   "key_probe": 0.11865234375
+  },
+  {
+   "member": 5,
+   "status": "stuck",
+   "prev_attn": 0.026306696236133575,
+   "key_probe": 0.93408203125
+  },
+  {
+   "member": 6,
+   "status": "pointer",
+   "prev_attn": 0.0059175132773816586,
+   "key_probe": 1.0
+  },
+  {
+   "member": 7,
+   "status": "pointer",
+   "prev_attn": 0.01491901371628046,
+   "key_probe": 0.89453125
+  },
+  {
+   "member": 8,
+   "status": "pointer",
+   "prev_attn": 0.013117891736328602,
+   "key_probe": 0.99267578125
+  },
+  {
+   "member": 9,
+   "status": "pointer",
+   "prev_attn": 0.00693806866183877,
+   "key_probe": 0.9912109375
+  },
+  {
+   "member": 10,
+   "status": "pointer",
+   "prev_attn": 0.005299277603626251,
+   "key_probe": 0.97509765625
+  },
+  {
+   "member": 11,
+   "status": "pointer",
+   "prev_attn": 0.005187663249671459,
+   "key_probe": 0.99853515625
+  },
+  {
+   "member": 12,
+   "status": "pointer",
+   "prev_attn": 0.007326280698180199,
+   "key_probe": 0.9892578125
+  },
+  {
+   "member": 13,
+   "status": "pointer",
+   "prev_attn": 0.005208992399275303,
+   "key_probe": 0.98291015625
+  },
+  {
+   "member": 14,
+   "status": "pointer",
+   "prev_attn": 0.01383846066892147,
+   "key_probe": 0.99853515625
+  },
+  {
+   "member": 15,
+   "status": "pointer",
+   "prev_attn": 0.00804975163191557,
+   "key_probe": 1.0
+  }
+ ],
+ "X8_N192_mid": [
+  {
+   "member": 0,
+   "status": "pointer",
+   "prev_attn": 0.7574751973152161,
+   "key_probe": 0.892578125
+  },
+  {
+   "member": 1,
+   "status": "pointer",
+   "prev_attn": 0.9910972714424133,
+   "key_probe": 1.0
+  },
+  {
+   "member": 2,
+   "status": "pointer",
+   "prev_attn": 0.9650356769561768,
+   "key_probe": 1.0
+  },
+  {
+   "member": 3,
+   "status": "stuck",
+   "prev_attn": 0.005958940833806992,
+   "key_probe": 0.197265625
+  },
+  {
+   "member": 4,
+   "status": "pointer",
+   "prev_attn": 0.9951714873313904,
+   "key_probe": 1.0
+  },
+  {
+   "member": 5,
+   "status": "pointer",
+   "prev_attn": 0.8500005006790161,
+   "key_probe": 1.0
+  },
+  {
+   "member": 6,
+   "status": "pointer",
+   "prev_attn": 0.7568467259407043,
+   "key_probe": 1.0
+  },
+  {
+   "member": 7,
+   "status": "pointer",
+   "prev_attn": 0.9667061567306519,
+   "key_probe": 0.99560546875
+  },
+  {
+   "member": 8,
+   "status": "pointer",
+   "prev_attn": 0.756107747554779,
+   "key_probe": 0.998046875
+  },
+  {
+   "member": 9,
+   "status": "pointer",
+   "prev_attn": 0.9955946207046509,
+   "key_probe": 1.0
+  },
+  {
+   "member": 10,
+   "status": "pointer",
+   "prev_attn": 0.9903020858764648,
+   "key_probe": 1.0
+  },
+  {
+   "member": 11,
+   "status": "stuck",
+   "prev_attn": 0.3444482982158661,
+   "key_probe": 0.5859375
+  },
+  {
+   "member": 12,
+   "status": "pointer",
+   "prev_attn": 0.8521325588226318,
+   "key_probe": 1.0
+  },
+  {
+   "member": 13,
+   "status": "stuck",
+   "prev_attn": 0.05173179507255554,
+   "key_probe": 0.1884765625
+  },
+  {
+   "member": 14,
+   "status": "pointer",
+   "prev_attn": 0.993865966796875,
+   "key_probe": 1.0
+  },
+  {
+   "member": 15,
+   "status": "stuck",
+   "prev_attn": 0.0498795285820961,
+   "key_probe": 0.3447265625
+  }
+ ],
+ "X8_N192_mid_answeronly": [
+  {
+   "member": 0,
+   "status": "pointer",
+   "prev_attn": 0.02638685703277588,
+   "key_probe": 0.43994140625
+  },
+  {
+   "member": 1,
+   "status": "stuck",
+   "prev_attn": 0.0004613238852471113,
+   "key_probe": 0.12109375
+  },
+  {
+   "member": 2,
+   "status": "stuck",
+   "prev_attn": 2.2495583834825084e-05,
+   "key_probe": 0.1142578125
+  },
+  {
+   "member": 3,
+   "status": "stuck",
+   "prev_attn": 0.00018875031673815101,
+   "key_probe": 0.12548828125
+  },
+  {
+   "member": 4,
+   "status": "mixed",
+   "prev_attn": 0.008257987909018993,
+   "key_probe": 0.17138671875
+  },
+  {
+   "member": 5,
+   "status": "stuck",
+   "prev_attn": 0.0005125473253428936,
+   "key_probe": 0.1298828125
+  },
+  {
+   "member": 6,
+   "status": "pointer",
+   "prev_attn": 0.8673872947692871,
+   "key_probe": 1.0
+  },
+  {
+   "member": 7,
+   "status": "stuck",
+   "prev_attn": 0.00128274061717093,
+   "key_probe": 0.12353515625
+  },
+  {
+   "member": 8,
+   "status": "pointer",
+   "prev_attn": 0.9724068641662598,
+   "key_probe": 0.99462890625
+  },
+  {
+   "member": 9,
+   "status": "pointer",
+   "prev_attn": 0.3250718116760254,
+   "key_probe": 1.0
+  },
+  {
+   "member": 10,
+   "status": "pointer",
+   "prev_attn": 0.819466233253479,
+   "key_probe": 0.99951171875
+  },
+  {
+   "member": 11,
+   "status": "pointer",
+   "prev_attn": 0.36185503005981445,
+   "key_probe": 1.0
+  },
+  {
+   "member": 12,
+   "status": "stuck",
+   "prev_attn": 0.08797614276409149,
+   "key_probe": 0.12353515625
+  },
+  {
+   "member": 13,
+   "status": "stuck",
+   "prev_attn": 0.001748526468873024,
+   "key_probe": 0.11669921875
+  },
+  {
+   "member": 14,
+   "status": "pointer",
+   "prev_attn": 0.9247673153877258,
+   "key_probe": 0.99951171875
+  },
+  {
+   "member": 15,
+   "status": "stuck",
+   "prev_attn": 0.0005579771823249757,
+   "key_probe": 0.12353515625
+  }
+ ]
+}
